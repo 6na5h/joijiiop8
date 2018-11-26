@@ -1,0 +1,6 @@
+﻿token=NTAzNTY3MzgwMTcwMDE0NzIx.Dty-3g.tQY04UL_u7oZru1qMI-ZuvRGUeY
+owner=319587743699042305
+prefix= 8
+game= 8play
+stayinchannel=true
+songinstatus=true 
