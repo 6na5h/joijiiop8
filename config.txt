@@ -1,6 +1,0 @@
-token=NTAzNTY3MzgwMTcwMDE0NzIx.Dt2l7Q.ijiZd8QLTdvPzG2b5eV1ebdFjBE
-owner=319587743699042305
-prefix= 8
-game= 8play
-stayinchannel=true
-songinstatus=true 
